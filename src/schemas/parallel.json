@@ -17,7 +17,7 @@
       "type": "string"
     },
     "End": {
-      "const": true
+      "type": "boolean"
     },
     "Comment": {
       "type": "string"
