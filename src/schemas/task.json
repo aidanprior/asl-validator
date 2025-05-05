@@ -11,7 +11,7 @@
       "type": "string"
     },
     "End": {
-      "enum": [true]
+      "const": true
     },
     "Comment": {
       "type": "string"
